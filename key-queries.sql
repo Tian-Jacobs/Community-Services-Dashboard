@@ -60,14 +60,21 @@ GROUP BY resident_name
 ORDER BY total_complaints DESC
 LIMIT 5;
 
--- Query 6️ | Complaints still in progress || not displaying any data
-SELECT c.complaint_id, c.title, r.first_name || ' ' || r.last_name AS resident_name,
-       MAX(sl.status) AS current_status
+-- Query 6️ | Complaints still in progress
+SELECT 
+    c.complaint_id, 
+    c.title, 
+    r.first_name || ' ' || r.last_name AS resident_name,
+    sl.status AS current_status
 FROM complaints c
-JOIN status_logs sl ON c.complaint_id = sl.complaint_id
 JOIN residents r ON c.resident_id = r.resident_id
-GROUP BY c.complaint_id, c.title, resident_name
-HAVING MAX(sl.status) = 'In Progress';
+JOIN status_logs sl ON c.complaint_id = sl.complaint_id
+WHERE sl.status = 'In Progress'
+  AND sl.status_date = (
+      SELECT MAX(sl2.status_date) 
+      FROM status_logs sl2 
+      WHERE sl2.complaint_id = c.complaint_id
+  );
 
 -- Query 7 | Number of resolved vs unresolved complaints
 SELECT CASE 
