@@ -1,0 +1,51 @@
+complaint_id;resident_id;category_id;title;description;submission_date
+1;101;1;Major water leak on Main Street;A large pipe has burst, flooding the road.;2025/01/10
+2;102;2;Potholes on High Street;Several deep potholes are causing traffic issues.;2025/01/12
+3;103;5;Faulty streetlight near park;The streetlight at the park entrance is not working.;2025/01/15
+4;101;3;New housing application;Application for subsidized housing for a family of four.;2025/01/16
+5;104;4;Missed garbage collection;The bin was not collected on the scheduled day.;2025/01/18
+6;105;1;Minor leak in backyard;A small pipe is leaking in my garden.;2025/01/20
+7;106;6;Annual check-up appointment;Scheduled visit for general health check-up.;2025/01/22
+8;107;2;Pothole on residential road;A single pothole needs to be filled on Park Avenue.;2025/01/25
+9;103;1;Recurring water leak;The same leak from last month has returned.;2025/01/26
+10;101;2;Pothole near school crossing;A dangerous pothole near a pedestrian crossing.;2025/01/28
+11;108;7;Overgrown grass in community park;The grass and weeds in the local park need cutting.;2025/02/01
+12;109;8;Neighbor playing loud music;Loud music after 10 PM. By-law violation.;2025/02/03
+13;110;9;Damaged book at library;A book on the new arrivals shelf is torn.;2025/02/05
+14;111;1;Leak in public toilet;A toilet in the community center is leaking water.;2025/02/07
+15;112;5;Streetlight out on corner;The streetlight at the intersection of Oak and Elm is out.;2025/02/09
+16;113;4;Illegal dumping of refuse;Someone dumped trash on the side of the road.;2025/02/11
+17;114;2;Pothole on motorway exit;A large pothole on the motorway exit ramp.;2025/02/13
+18;115;1;Low water pressure in building;Water pressure has been consistently low for a week.;2025/02/15
+19;116;6;Vaccination appointment for child;Scheduled a measles vaccination for my daughter.;2025/02/17
+20;117;10;Loud construction work after hours;Construction is continuing after the allowed time.;2025/02/19
+21;118;2;Multiple potholes on main road;The entire street needs resurfacing due to potholes.;2025/02/21
+22;119;3;Update on housing application;Following up on the status of my housing application.;2025/02/23
+23;120;4;No recycling collection;Recycling bin was not collected this week.;2025/02/25
+24;101;1;Water pipe burst near my home;Another water pipe burst in the neighborhood.;2025/03/01
+25;102;7;Damaged playground equipment;The swing set in the park is broken.;2025/03/03
+26;103;8;Illegal business operating from home;A neighbor is running a loud workshop from their garage.;2025/03/05
+27;104;5;Streetlight flickering;The streetlight on my street flickers constantly.;2025/03/07
+28;105;3;New housing application;Applying for a new unit for my parents.;2025/03/09
+29;106;4;Bin missing after collection;My waste bin was not returned after collection.;2025/03/11
+30;107;2;Small cracks in the road;Small cracks are appearing on the street surface.;2025/03/13
+31;108;1;Leaky fire hydrant;A fire hydrant is leaking on the sidewalk.;2025/03/15
+32;109;10;Loud dog barking;My neighbor's dog barks constantly, day and night.;2025/03/17
+33;110;6;Flu shot appointment;Booking an appointment for a seasonal flu shot.;2025/03/19
+34;111;2;Pothole causing near-accidents;The pothole is deep and in a dangerous spot.;2025/03/21
+35;112;5;Several streetlights out;Three consecutive streetlights are not working.;2025/03/23
+36;113;4;Missed special waste collection;Scheduled collection for furniture was missed.;2025/03/25
+37;114;1;Burst pipe in apartment building;A pipe burst on the 3rd floor of our block.;2025/03/27
+38;115;7;Park benches are broken;Several benches in the park are damaged and unsafe.;2025/03/29
+39;116;3;Inquiry about housing waiting list;Checking my position on the housing waiting list.;2025/04/01
+40;117;1;Drainage pipe overflowing;The drainage pipe outside my home is blocked and overflowing.;2025/04/03
+41;118;2;Pothole on busy intersection;A new pothole has appeared at a very busy intersection.;2025/04/05
+42;119;4;Illegal dumping in alleyway;Someone dumped construction rubble in the alleyway.;2025/04/07
+43;120;5;Streetlight out on main road;The streetlight in front of the grocery store is broken.;2025/04/09
+44;101;6;General medical check-up;Booking an appointment for a general check-up.;2025/04/11
+45;102;1;Low water pressure in my ward;The entire ward seems to have low water pressure.;2025/04/13
+46;103;2;Potholes on side streets;Several potholes on the smaller residential streets.;2025/04/15
+47;104;7;Vandalism at the park;Graffiti and vandalism reported on playground equipment.;2025/04/17
+48;105;8;Neighbor's noisy parties;A neighbor is hosting loud parties every weekend.;2025/04/19
+49;106;3;Change of details for housing application;Need to update my contact information on the application.;2025/04/21
+50;107;1;Another water leak;A small, but consistent water leak on the sidewalk.;2025/04/23

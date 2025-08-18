@@ -1,0 +1,21 @@
+resident_id;first_name;last_name;ward;email;phone
+101;Ayanda;Ndlovu;8;ayanda.n@email.com;812345678
+102;Bongani;Mokoena;55;bongani.m@email.com;823456789
+103;Chloe;van Wyk;8;chloe.v@email.com;834567890
+104;David;Petersen;12;david.p@email.com;845678901
+105;Emily;Naidoo;55;emily.n@email.com;856789012
+106;Fatimah;Solomon;8;fatimah.s@email.com;867890123
+107;George;Molefe;12;george.m@email.com;878901234
+108;Hloniphani;Dlamini;23;hloniphani.d@email.com;889012345
+109;Ibrahim;Khan;41;ibrahim.k@email.com;890123456
+110;Jessica;Jansen;23;jessica.j@email.com;801234567
+111;Katlego;Sibanda;55;katlego.s@email.com;812345679
+112;Lwazi;Zwane;41;lwazi.z@email.com;823456790
+113;Mila;Govender;12;mila.g@email.com;834567901
+114;Nadia;Omar;8;nadia.o@email.com;845679012
+115;Oscar;Gama;23;oscar.g@email.com;856790123
+116;Palesa;Mabena;55;palesa.m@email.com;867901234
+117;Quentin;Pillay;41;quentin.p@email.com;879012345
+118;Rethabile;Khumalo;12;rethabile.k@email.com;880123456
+119;Sipho;Nkosi;23;sipho.n@email.com;891234567
+120;Thandi;Venter;55;thandi.v@email.com;802345678
