@@ -1,0 +1,501 @@
+complaint_id;resident_id;category_id;title;description;submission_date
+1;101;1;Major water leak on Main Street;A large pipe has burst, flooding the road.;2024/09/01
+2;102;2;Potholes on High Street;Several deep potholes are causing traffic issues.;2024/09/02
+3;103;5;Faulty streetlight near park;The streetlight at the park entrance is not working.;2024/09/03
+4;104;3;New housing application;Application for subsidized housing for a family of four.;2024/09/04
+5;105;4;Missed garbage collection;The bin was not collected on the scheduled day.;2024/09/05
+6;106;1;Minor leak in backyard;A small pipe is leaking in my garden.;2024/09/06
+7;107;6;Annual check-up appointment;Scheduled visit for general health check-up.;2024/09/07
+8;108;2;Pothole on residential road;A single pothole needs to be filled on Park Avenue.;2024/09/08
+9;109;1;Recurring water leak;The same leak from last month has returned.;2024/09/09
+10;110;2;Pothole near school crossing;A dangerous pothole near a pedestrian crossing.;2024/09/10
+11;111;7;Overgrown grass in community park;The grass and weeds in the local park need cutting.;2024/09/11
+12;112;8;Neighbor playing loud music;Loud music after 10 PM. By-law violation.;2024/09/12
+13;113;9;Damaged book at library;A book on the new arrivals shelf is torn.;2024/09/13
+14;114;1;Leak in public toilet;A toilet in the community center is leaking water.;2024/09/14
+15;115;5;Streetlight out on corner;The streetlight at the intersection of Oak and Elm is out.;2024/09/15
+16;116;4;Illegal dumping of refuse;Someone dumped trash on the side of the road.;2024/09/16
+17;117;2;Pothole on motorway exit;A large pothole on the motorway exit ramp.;2024/09/17
+18;118;1;Low water pressure in building;Water pressure has been consistently low for a week.;2024/09/18
+19;119;6;Vaccination appointment for child;Scheduled a measles vaccination for my daughter.;2024/09/19
+20;120;10;Loud construction work after hours;Construction is continuing after the allowed time.;2024/09/20
+21;121;2;Multiple potholes on main road;The entire street needs resurfacing due to potholes.;2024/09/21
+22;122;3;Update on housing application;Following up on the status of my housing application.;2024/09/22
+23;123;4;No recycling collection;Recycling bin was not collected this week.;2024/09/23
+24;124;1;Water pipe burst near my home;Another water pipe burst in the neighborhood.;2024/09/24
+25;125;7;Damaged playground equipment;The swing set in the park is broken.;2024/09/25
+26;126;8;Illegal business operating from home;A neighbor is running a loud workshop from their garage.;2024/09/26
+27;127;5;Streetlight flickering;The streetlight on my street flickers constantly.;2024/09/27
+28;128;3;New housing application;Applying for a new unit for my parents.;2024/09/28
+29;129;4;Bin missing after collection;My waste bin was not returned after collection.;2024/09/29
+30;130;2;Small cracks in the road;Small cracks are appearing on the street surface.;2024/09/30
+31;131;1;Leaky fire hydrant;A fire hydrant is leaking on the sidewalk.;2024/10/01
+32;132;10;Loud dog barking;My neighbor's dog barks constantly, day and night.;2024/10/02
+33;133;6;Flu shot appointment;Booking an appointment for a seasonal flu shot.;2024/10/03
+34;134;2;Pothole causing near-accidents;The pothole is deep and in a dangerous spot.;2024/10/04
+35;135;5;Several streetlights out;Three consecutive streetlights are not working.;2024/10/05
+36;136;4;Missed special waste collection;Scheduled collection for furniture was missed.;2024/10/06
+37;137;1;Burst pipe in apartment building;A pipe burst on the 3rd floor of our block.;2024/10/07
+38;138;7;Park benches are broken;Several benches in the park are damaged and unsafe.;2024/10/08
+39;139;3;Inquiry about housing waiting list;Checking my position on the housing waiting list.;2024/10/09
+40;140;1;Drainage pipe overflowing;The drainage pipe outside my home is blocked and overflowing.;2024/10/10
+41;141;2;Pothole on busy intersection;A new pothole has appeared at a very busy intersection.;2024/10/11
+42;142;4;Illegal dumping in alleyway;Someone dumped construction rubble in the alleyway.;2024/10/12
+43;143;5;Streetlight out on main road;The streetlight in front of the grocery store is broken.;2024/10/13
+44;144;6;General medical check-up;Booking an appointment for a general check-up.;2024/10/14
+45;145;1;Low water pressure in my ward;The entire ward seems to have low water pressure.;2024/10/15
+46;146;2;Potholes on side streets;Several potholes on the smaller residential streets.;2024/10/16
+47;147;7;Vandalism at the park;Graffiti and vandalism reported on playground equipment.;2024/10/17
+48;148;8;Neighbor's noisy parties;A neighbor is hosting loud parties every weekend.;2024/10/18
+49;149;3;Change of details for housing application;Need to update my contact information on the application.;2024/10/19
+50;150;1;Another water leak;A small, but consistent water leak on the sidewalk.;2024/10/20
+51;101;2;Road surface deteriorating;The road surface is cracking and needs attention.;2024/10/21
+52;102;3;Housing maintenance request;Need repairs to my subsidized housing unit.;2024/10/22
+53;103;4;Recycling bin damaged;My recycling bin has a large crack and needs replacement.;2024/10/23
+54;104;5;Street lamp not working;The lamp post outside my house stopped working.;2024/10/24
+55;105;6;Dental appointment needed;Need to schedule a routine dental check-up.;2024/10/25
+56;106;7;Tree branch blocking path;A large branch fell and is blocking the walking path.;2024/10/26
+57;107;8;Parking violation;Someone is parking in a no-parking zone daily.;2024/10/27
+58;108;9;Library computer not working;One of the public computers at the library is broken.;2024/10/28
+59;109;10;Late night disturbances;Neighbors are having loud arguments regularly at night.;2024/10/29
+60;110;1;Water meter reading issue;My water meter seems to be giving incorrect readings.;2024/10/30
+61;111;2;Dangerous pothole;A very deep pothole appeared overnight on the main road.;2024/10/31
+62;112;3;Housing application update;Submitting additional documents for housing application.;2024/11/01
+63;113;4;Garden refuse collection;Need special collection for large amount of garden waste.;2024/11/02
+64;114;5;Multiple streetlights out;Half the streetlights on my street are not working.;2024/11/03
+65;115;6;Child vaccination;Need to book measles vaccination for my son.;2024/11/04
+66;116;7;Park equipment vandalized;Playground equipment has been damaged by vandals.;2024/11/05
+67;117;8;Business operating without license;Neighbor running unlicensed food business from home.;2024/11/06
+68;118;9;Library book overdue;Cannot return book due to damaged cover, need assistance.;2024/11/07
+69;119;10;Construction noise complaint;Building work starting too early in the morning.;2024/11/08
+70;120;1;Burst water main;Major water pipe burst causing street flooding.;2024/11/09
+71;121;2;Road needs resurfacing;Entire street surface is deteriorating rapidly.;2024/11/10
+72;122;3;Emergency housing request;Family evicted, need emergency accommodation.;2024/11/11
+73;123;4;Bin collection missed again;Third consecutive week without garbage collection.;2024/11/12
+74;124;5;Streetlight knocked down;Car accident knocked down the streetlight pole.;2024/11/13
+75;125;6;Eye test appointment;Need to schedule an eye examination.;2024/11/14
+76;126;7;Park gates broken;The main entrance gates to the park are damaged.;2024/11/15
+77;127;8;Noise from commercial vehicle;Truck idling outside residential area all night.;2024/11/16
+78;128;9;Library heating not working;The library is very cold, heating system appears broken.;2024/11/17
+79;129;10;Dog attack incident;Loose dog attacked pedestrian, owner not taking responsibility.;2024/11/18
+80;130;1;Water quality concern;Water coming out of tap has strange color and smell.;2024/11/19
+81;131;2;Intersection needs stop sign;Dangerous intersection with no traffic control.;2024/11/20
+82;132;3;Housing transfer request;Need to transfer to different housing unit.;2024/11/21
+83;133;4;Hazardous waste disposal;Need proper disposal method for old paint cans.;2024/11/22
+84;134;5;Solar streetlight malfunctioning;New solar streetlight not charging properly.;2024/11/23
+85;135;6;Physiotherapy referral;Need referral for physiotherapy treatment.;2024/11/24
+86;136;7;Playground safety concern;Playground equipment has sharp edges, safety hazard.;2024/11/25
+87;137;8;Illegal advertising;Unauthorized posters being put up on public property.;2024/11/26
+88;138;9;Library Wi-Fi down;Internet connection at library not working.;2024/11/27
+89;139;10;Loud music from bar;Local bar playing music too loud, disturbing residents.;2024/11/28
+90;140;1;Sewer backup;Sewage backing up into my yard from blocked drain.;2024/11/29
+91;141;2;Speed bump needed;Cars driving too fast through residential area.;2024/11/30
+92;142;3;Rental assistance application;Applying for rental assistance program.;2024/12/01
+93;143;4;Electronic waste collection;Need collection service for old electronics.;2024/12/02
+94;144;5;Streetlight timing wrong;Streetlights turning on during daylight hours.;2024/12/03
+95;145;6;Mental health support;Need referral for mental health services.;2024/12/04
+96;146;7;Soccer field maintenance;The community soccer field needs grass cutting and line marking.;2024/12/05
+97;147;8;Unlicensed street vendor;Vendor operating without proper permits.;2024/12/06
+98;148;9;Library book request;Requesting library to purchase specific educational books.;2024/12/07
+99;149;10;Fireworks complaint;Neighbors setting off fireworks at inappropriate times.;2024/12/08
+100;150;1;Water pressure drop;Sudden drop in water pressure in entire building.;2024/12/09
+101;101;2;Manhole cover missing;Dangerous open manhole without cover on busy street.;2024/12/10
+102;102;3;Housing inspection request;Need inspection of housing unit for repairs.;2024/12/11
+103;103;4;Composting program inquiry;Want to join community composting program.;2024/12/12
+104;104;5;LED streetlight request;Request to upgrade to LED streetlights for better efficiency.;2024/12/13
+105;105;6;Blood pressure check;Need regular monitoring appointment.;2024/12/14
+106;106;7;Park lighting inadequate;Park is too dark at night, safety concern.;2024/12/15
+107;107;8;Building without permit;Neighbor building extension without proper permits.;2024/12/16
+108;108;9;Library study room booking;Want to reserve study room for exam preparation.;2024/12/17
+109;109;10;Domestic disturbance;Frequent loud arguments from neighboring household.;2024/12/18
+110;110;1;Frozen pipes;Water pipes frozen due to cold weather.;2024/12/19
+111;111;2;Crosswalk needs repainting;Pedestrian crossing markings are faded and dangerous.;2024/12/20
+112;112;3;Social housing application;Application for social housing program.;2024/12/21
+113;113;4;Christmas tree disposal;Need special collection for Christmas trees after holidays.;2024/12/22
+114;114;5;Festive lighting request;Request for festive street lighting installation.;2024/12/23
+115;115;6;Holiday clinic hours;Inquiry about clinic operating hours during holidays.;2024/12/24
+116;116;7;Park decoration for holidays;Request for holiday decorations in community park.;2024/12/25
+117;117;8;Fireworks safety violation;Illegal fireworks being sold in residential area.;2024/12/26
+118;118;9;Library holiday closure;Inquiry about library schedule during holiday period.;2024/12/27
+119;119;10;New Year party noise;Neighbors planning very loud New Year celebration.;2024/12/28
+120;120;1;Heating system leak;Central heating pipe leaking in apartment building.;2024/12/29
+121;121;2;Ice damage to road;Road surface damaged by ice, creating hazardous conditions.;2024/12/30
+122;122;3;Year-end housing report;Request for annual report on housing application status.;2024/12/31
+123;123;4;Holiday waste collection;Extra waste collection needed after holiday period.;2025/01/01
+124;124;5;New Year streetlight celebration;Request for special lighting for New Year celebration.;2025/01/02
+125;125;6;Post-holiday health check;Scheduling health check-up after holiday period.;2025/01/03
+126;126;7;Park cleanup after celebrations;Park needs cleaning after New Year celebrations.;2025/01/04
+127;127;8;Unauthorized New Year vendors;Unlicensed vendors operating during celebrations.;2025/01/05
+128;128;9;Library reopening inquiry;When will library reopen after holiday closure.;2025/01/06
+129;129;10;Post-celebration noise;Neighbors still partying loudly after New Year.;2025/01/07
+130;130;1;New water connection;Need new water connection for property extension.;2025/01/08
+131;131;2;Pothole from ice damage;Large pothole formed due to ice expansion.;2025/01/09
+132;132;3;Housing maintenance schedule;Request annual maintenance schedule for housing unit.;2025/01/10
+133;133;4;Recycling education program;Request information about recycling guidelines.;2025/01/11
+134;134;5;Energy-efficient lighting;Request for energy-efficient street lighting upgrade.;2025/01/12
+135;135;6;Diabetes monitoring;Regular check-up for diabetes management.;2025/01/13
+136;136;7;Exercise equipment installation;Request for outdoor exercise equipment in park.;2025/01/14
+137;137;8;Zoning violation inquiry;Question about neighbor's property use compliance.;2025/01/15
+138;138;9;Digital library services;Inquiry about online library services availability.;2025/01/16
+139;139;10;Meditation class noise;Noise complaint about loud meditation classes.;2025/01/17
+140;140;1;Old pipe replacement;Request replacement of old corroded pipes.;2025/01/18
+141;141;2;Traffic calming measures;Request speed bumps or other traffic calming.;2025/01/19
+142;142;3;Affordable housing inquiry;Information about affordable housing programs.;2025/01/20
+143;143;4;Bulk waste collection;Need collection for large furniture items.;2025/01/21
+144;144;5;Smart lighting proposal;Proposal for smart streetlighting system.;2025/01/22
+145;145;6;Specialist referral;Need referral to specialist for ongoing condition.;2025/01/23
+146;146;7;Community garden proposal;Proposal to establish community garden in park.;2025/01/24
+147;147;8;Home business compliance;Question about running business from home legally.;2025/01/25
+148;148;9;Community program at library;Proposal for new community education program.;2025/01/26
+149;149;10;Amplified sound permit;Neighbor using amplified sound without permit.;2025/01/27
+150;150;1;Water conservation inquiry;Information about water conservation programs.;2025/01/28
+151;101;2;Bridge inspection needed;Local bridge showing signs of structural wear.;2025/01/29
+152;102;3;Housing accessibility modification;Need wheelchair ramp installation.;2025/01/30
+153;103;4;Green waste collection;Regular collection for garden waste needed.;2025/01/31
+154;104;5;Solar panel interference;Solar panels affecting streetlight sensors.;2025/02/01
+155;105;6;Allergy consultation;Need consultation for seasonal allergies.;2025/02/02
+156;106;7;Park accessibility improvement;Park needs wheelchair accessible pathways.;2025/02/03
+157;107;8;Food truck permit violation;Food truck operating without proper location permit.;2025/02/04
+158;108;9;Book club venue;Request to use library space for book club meetings.;2025/02/05
+159;109;10;Early morning delivery noise;Delivery trucks arriving too early making noise.;2025/02/06
+160;110;1;Water quality testing;Request for water quality testing in area.;2025/02/07
+161;111;2;Bicycle lane proposal;Request for dedicated bicycle lane on main road.;2025/02/08
+162;112;3;Housing transfer appeal;Appeal decision on housing transfer application.;2025/02/09
+163;113;4;Hazardous material disposal;Proper disposal needed for household chemicals.;2025/02/10
+164;114;5;Motion sensor lights;Request for motion-activated streetlights for safety.;2025/02/11
+165;115;6;Heart health screening;Preventive screening for heart conditions.;2025/02/12
+166;116;7;Dog park proposal;Proposal for dedicated off-leash dog area in park.;2025/02/13
+167;117;8;Sidewalk vendor compliance;Street vendor not following designated area rules.;2025/02/14
+168;118;9;Computer skills class;Request for basic computer skills classes at library.;2025/02/15
+169;119;10;Valentine's Day noise;Loud celebrations disturbing neighborhood.;2025/02/16
+170;120;1;Burst pipe emergency;Emergency water pipe burst requiring immediate attention.;2025/02/17
+171;121;2;School zone safety;Request for additional safety measures in school zone.;2025/02/18
+172;122;3;Senior housing application;Application for senior citizen housing program.;2025/02/19
+173;123;4;Organic waste program;Inquiry about organic waste separation program.;2025/02/20
+174;124;5;Historic district lighting;Appropriate period lighting for historic district.;2025/02/21
+175;125;6;Women's health services;Access to women's health screening services.;2025/02/22
+176;126;7;Memorial garden proposal;Proposal for memorial garden section in park.;2025/02/23
+177;127;8;Air quality concern;Concern about emissions from nearby business.;2025/02/24
+178;128;9;Literacy program;Adult literacy classes at library.;2025/02/25
+179;129;10;Construction dust complaint;Excessive dust from construction affecting neighbors.;2025/02/26
+180;130;1;Irrigation system repair;Public garden irrigation system not working.;2025/02/27
+181;131;2;Parking meter malfunction;Several parking meters not working properly.;2025/02/28
+182;132;3;Housing waiting list update;Update on position in social housing waiting list.;2025/03/01
+183;133;4;Electronic recycling event;Request for community electronic recycling event.;2025/03/02
+184;134;5;Decorative lighting proposal;Proposal for decorative lighting in business district.;2025/03/03
+185;135;6;Men's health screening;Preventive health screening services for men.;2025/03/04
+186;136;7;Sports facility upgrade;Upgrade needed for community sports facilities.;2025/03/05
+187;137;8;Unauthorized construction;Construction work without proper permits or hours.;2025/03/06
+188;138;9;Children's reading program;Proposal for enhanced children's reading program.;2025/03/07
+189;139;10;Loud exercise classes;Early morning exercise classes too loud for neighbors.;2025/03/08
+190;140;1;Water main upgrade;Old water main needs replacement for better pressure.;2025/03/09
+191;141;2;Roundabout proposal;Proposal to replace intersection with roundabout.;2025/03/10
+192;142;3;Disability housing accommodation;Request for disability-accessible housing unit.;2025/03/11
+193;143;4;Textile recycling program;Request for textile and clothing recycling program.;2025/03/12
+194;144;5;Security lighting;Additional security lighting needed in problem areas.;2025/03/13
+195;145;6;Nutrition counseling;Access to nutrition counseling services.;2025/03/14
+196;146;7;Community event space;Request for covered pavilion for community events.;2025/03/15
+197;147;8;Property maintenance violation;Neighbor not maintaining property to code standards.;2025/03/16
+198;148;9;Maker space at library;Proposal for maker space with tools and equipment.;2025/03/17
+199;149;10;Leaf blower noise;Commercial leaf blowing during quiet hours.;2025/03/18
+200;150;1;Fire hydrant maintenance;Fire hydrant needs maintenance for proper operation.;2025/03/19
+201;101;2;Pedestrian safety crossing;Need safer crossing at busy intersection.;2025/03/20
+202;102;3;Emergency housing extension;Extension needed for emergency housing assistance.;2025/03/21
+203;103;4;Mattress disposal;Large mattress disposal service needed.;2025/03/22
+204;104;5;Festival lighting request;Special lighting for upcoming community festival.;2025/03/23
+205;105;6;Chronic pain management;Referral for chronic pain management services.;2025/03/24
+206;106;7;Amphitheater construction;Proposal for outdoor amphitheater in park.;2025/03/25
+207;107;8;Garage sale permit;Information about permits needed for garage sales.;2025/03/26
+208;108;9;Foreign language books;Request for foreign language book collection.;2025/03/27
+209;109;10;Rooster noise complaint;Neighbor's rooster crowing early disrupting sleep.;2025/03/28
+210;110;1;Swimming pool pipe leak;Community pool has pipe leak affecting water level.;2025/03/29
+211;111;2;Bike path maintenance;Community bike path needs surface repairs.;2025/03/30
+212;112;3;Rent arrears assistance;Assistance needed with rent payment difficulties.;2025/03/31
+213;113;4;Paint disposal event;Community event needed for household paint disposal.;2025/04/01
+214;114;5;Earth Hour participation;Participation in Earth Hour streetlight dimming.;2025/04/02
+215;115;6;Travel health consultation;Health consultation for international travel.;2025/04/03
+216;116;7;Butterfly garden project;Proposal for butterfly garden in park section.;2025/04/04
+217;117;8;Home daycare compliance;Neighbor running daycare without proper licensing.;2025/04/05
+218;118;9;Seed library program;Proposal for seed sharing library program.;2025/04/06
+219;119;10;Karaoke noise complaint;Neighbor's karaoke sessions too loud for area.;2025/04/07
+220;120;1;Pool filtration issue;Public pool filtration system not working properly.;2025/04/08
+221;121;2;School crossing guard;Request for crossing guard at elementary school.;2025/04/09
+222;122;3;Family housing application;Application for larger family housing unit.;2025/04/10
+223;123;4;Appliance recycling;Old appliance pickup and recycling service.;2025/04/11
+224;124;5;Energy audit streetlights;Audit of streetlight energy consumption patterns.;2025/04/12
+225;125;6;Sports medicine referral;Referral needed for sports-related injury treatment.;2025/04/13
+226;126;7;Picnic shelter repair;Park picnic shelter roof needs repair work.;2025/04/14
+227;127;8;Vehicle repair business;Neighbor repairing cars in driveway violating zoning.;2025/04/15
+228;128;9;Senior citizen programs;Programs and services for senior citizens at library.;2025/04/16
+229;129;10;Motorcycle noise;Modified motorcycle exhaust creating excessive noise.;2025/04/17
+230;130;1;Sprinkler system upgrade;Public space sprinkler system needs modernization.;2025/04/18
+231;131;2;Traffic light malfunction;Traffic light stuck on red causing delays.;2025/04/19
+232;132;3;Housing condition complaint;Poor living conditions in subsidized housing unit.;2025/04/20
+233;133;4;Bulk item pickup;Large furniture items need special collection.;2025/04/21
+234;134;5;Streetlight vandalism;Multiple streetlights damaged by vandalism.;2025/04/22
+235;135;6;Vaccination scheduling;Scheduling routine vaccinations for family.;2025/04/23
+236;136;7;Playground resurfacing;Playground surface needs replacement for safety.;2025/04/24
+237;137;8;Noise ordinance violation;Business operating beyond permitted noise levels.;2025/04/25
+238;138;9;Book donation processing;Large donation of books needs processing.;2025/04/26
+239;139;10;Party noise complaint;Large party continuing past noise ordinance hours.;2025/04/27
+240;140;1;Water meter error;Water meter giving incorrect high readings.;2025/04/28
+241;141;2;Guardrail damage;Highway guardrail damaged and needs replacement.;2025/04/29
+242;142;3;Housing inspection scheduling;Scheduling annual housing unit inspection.;2025/04/30
+243;143;4;Yard waste collection;Seasonal yard waste collection scheduling.;2025/05/01
+244;144;5;LED conversion project;Converting remaining streetlights to LED technology.;2025/05/02
+245;145;6;Prenatal care access;Access to prenatal healthcare services.;2025/05/03
+246;146;7;Tree planting initiative;Community tree planting project in park.;2025/05/04
+247;147;8;Commercial vehicle parking;Commercial vehicle illegally parked in residential zone.;2025/05/05
+248;148;9;Digital literacy classes;Computer and internet skills classes for seniors.;2025/05/06
+249;149;10;Early morning lawn care;Lawn care service starting too early disturbing neighbors.;2025/05/07
+250;150;1;Pool chemical balance;Public pool chemical levels need adjustment.;2025/05/08
+251;101;2;Speed limit enforcement;Need better speed limit enforcement in school zone.;2025/05/09
+252;102;3;Utility assistance program;Information about utility payment assistance.;2025/05/10
+253;103;4;Composting bin request;Request for home composting bin program.;2025/05/11
+254;104;5;Solar streetlight expansion;Expanding solar streetlight installation.;2025/05/12
+255;105;6;Mental health first aid;Mental health first aid training availability.;2025/05/13
+256;106;7;Skate park proposal;Proposal for skateboard park construction.;2025/05/14
+257;107;8;Unlicensed contractor;Contractor working without proper business license.;2025/05/15
+258;108;9;Teen programs expansion;Expanding teen programs and activities at library.;2025/05/16
+259;109;10;Generator noise;Neighbor's generator running excessively during outages.;2025/05/17
+260;110;1;Backflow preventer issue;Backflow prevention device needs inspection.;2025/05/18
+261;111;2;Crosswalk timing;Pedestrian crossing signal timing too short.;2025/05/19
+262;112;3;Housing modification request;Request for housing unit modification approval.;2025/05/20
+263;113;4;Battery recycling;Household battery recycling collection point needed.;2025/05/21
+264;114;5;Festival power supply;Temporary power and lighting for community festival.;2025/05/22
+265;115;6;Occupational health screening;Work-related health screening services.;2025/05/23
+266;116;7;Community garden expansion;Expanding existing community garden plots.;2025/05/24
+267;117;8;Property fence dispute;Neighbor's fence placement violating property lines.;2025/05/25
+268;118;9;Local history archive;Digitizing local history documents for library.;2025/05/26
+269;119;10;Swimming pool noise;Neighbor's pool parties creating noise disturbance.;2025/05/27
+270;120;1;Water conservation rebate;Rebate program for water-efficient appliances.;2025/05/28
+271;121;2;Bus stop shelter;Request for weather shelter at bus stop.;2025/05/29
+272;122;3;Transitional housing;Need temporary housing during home repairs.;2025/05/30
+273;123;4;Pharmaceutical disposal;Safe disposal of expired medications.;2025/05/31
+274;124;5;Holiday lighting display;Community holiday lighting display coordination.;2025/06/01
+275;125;6;Pediatric specialist referral;Referral to pediatric specialist for child.;2025/06/02
+276;126;7;Fitness equipment maintenance;Park exercise equipment needs maintenance.;2025/06/03
+277;127;8;Outdoor dining permit;Restaurant extending seating without proper permits.;2025/06/04
+278;128;9;STEM education programs;Science and technology programs for children.;2025/06/05
+279;129;10;Air conditioning noise;Neighbor's AC unit creating excessive noise.;2025/06/06
+280;130;1;Fountain maintenance;Public fountain pump needs repair.;2025/06/07
+281;131;2;Intersection visibility;Poor visibility at intersection due to vegetation.;2025/06/08
+282;132;3;Housing accessibility audit;Audit of housing accessibility compliance.;2025/06/09
+283;133;4;Hazardous waste day;Community hazardous waste collection event.;2025/06/10
+284;134;5;Smart traffic integration;Integrating streetlights with smart traffic systems.;2025/06/11
+285;135;6;Dermatology consultation;Skin condition requiring specialist consultation.;2025/06/12
+286;136;7;Wildlife habitat protection;Protecting natural wildlife areas in park.;2025/06/13
+287;137;8;Short-term rental compliance;Neighbor running illegal short-term rental.;2025/06/14
+288;138;9;Multicultural book festival;Annual multicultural book festival planning.;2025/06/15
+289;139;10;Construction equipment noise;Heavy machinery operating outside permitted hours.;2025/06/16
+290;140;1;Irrigation timer malfunction;Automatic irrigation system timing problems.;2025/06/17
+291;141;2;Pavement marking renewal;Faded road markings need repainting.;2025/06/18
+292;142;3;Housing voucher application;Application for housing choice voucher program.;2025/06/19
+293;143;4;Tire recycling event;Community tire recycling and disposal event.;2025/06/20
+294;144;5;Pathway lighting upgrade;Upgrading pedestrian pathway lighting for safety.;2025/06/21
+295;145;6;Addiction counseling referral;Referral for substance abuse counseling services.;2025/06/22
+296;146;7;Outdoor classroom proposal;Proposal for outdoor educational space in park.;2025/06/23
+297;147;8;Home occupation permit;Information about permits for home-based business.;2025/06/24
+298;148;9;Summer reading program;Enhanced summer reading program for children.;2025/06/25
+299;149;10;Loud vehicle exhaust;Modified vehicle exhaust creating noise pollution.;2025/06/26
+300;150;1;Pool deck repair;Public pool deck surface needs repair work.;2025/06/27
+301;101;2;Bike lane safety;Improving safety features of existing bike lanes.;2025/06/28
+302;102;3;Emergency shelter access;Access to emergency homeless shelter services.;2025/06/29
+303;103;4;Glass recycling expansion;Expanding glass recycling collection program.;2025/06/30
+304;104;5;Community event lighting;Lighting support for outdoor community events.;2025/07/01
+305;105;6;Genetic counseling;Access to genetic counseling services.;2025/07/02
+306;106;7;Accessible playground equipment;Installing disability-accessible playground features.;2025/07/03
+307;107;8;Illegal camping;Unauthorized camping in public spaces.;2025/07/04
+308;108;9;Maker fair planning;Planning annual maker fair at library.;2025/07/05
+309;109;10;Fireworks noise outside holidays;Fireworks being set off outside holiday periods.;2025/07/06
+310;110;1;Water quality complaint;Strange taste and odor in tap water.;2025/07/07
+311;111;2;School zone speed cameras;Installation of speed cameras in school zones.;2025/07/08
+312;112;3;Housing repair emergency;Emergency repair needed for housing unit.;2025/07/09
+313;113;4;Textile recycling bin;Installation of textile recycling collection bin.;2025/07/10
+314;114;5;Energy efficiency audit;Audit of municipal lighting energy efficiency.;2025/07/11
+315;115;6;Cardiac rehabilitation;Access to cardiac rehabilitation programs.;2025/07/12
+316;116;7;Native plant garden;Establishing native plant demonstration garden.;2025/07/13
+317;117;8;Food safety violation;Food establishment not following health regulations.;2025/07/14
+318;118;9;Oral history project;Recording community oral history project.;2025/07/15
+319;119;10;Loud delivery trucks;Delivery vehicles making noise during quiet hours.;2025/07/16
+320;120;1;Hydrant pressure testing;Fire hydrant water pressure testing needed.;2025/07/17
+321;121;2;Pothole repair quality;Poor quality pothole repairs failing quickly.;2025/07/18
+322;122;3;Housing maintenance delay;Delayed response to housing maintenance requests.;2025/07/19
+323;123;4;Organic waste pilot;Pilot program for organic waste collection.;2025/07/20
+324;124;5;Artistic lighting project;Decorative lighting installation for arts district.;2025/07/21
+325;125;6;Disability services coordination;Coordinating various disability support services.;2025/07/22
+326;126;7;Pollinator garden initiative;Creating pollinator-friendly garden spaces.;2025/07/23
+327;127;8;Unauthorized vehicle sales;Vehicles being sold from residential property.;2025/07/24
+328;128;9;Community speaker series;Educational speaker series at library.;2025/07/25
+329;129;10;Helicopter noise;Frequent helicopter flights disturbing neighborhood.;2025/07/26
+330;130;1;Pool filtration upgrade;Upgrading public pool water filtration system.;2025/07/27
+331;131;2;Traffic calming study;Comprehensive traffic calming study for residential area.;2025/07/28
+332;132;3;Housing lottery application;Application for affordable housing lottery.;2025/07/29
+333;133;4;Construction debris disposal;Proper disposal of construction and demolition waste.;2025/07/30
+334;134;5;Dark sky compliance;Reducing light pollution with dark sky friendly lighting.;2025/07/31
+335;135;6;Telehealth services;Access to remote healthcare consultation services.;2025/08/01
+336;136;7;Sensory garden development;Creating sensory garden for therapeutic use.;2025/08/02
+337;137;8;Zoning variance application;Application for property use zoning variance.;2025/08/03
+338;138;9;Library accessibility upgrade;Improving library physical accessibility features.;2025/08/04
+339;139;10;Loud restaurant ventilation;Restaurant ventilation system creating noise.;2025/08/05
+340;140;1;Water main replacement schedule;Scheduling replacement of aging water mains.;2025/08/06
+341;141;2;Bicycle infrastructure expansion;Expanding bicycle infrastructure throughout city.;2025/08/07
+342;142;3;Senior housing waitlist;Inquiry about senior citizen housing waiting list.;2025/08/08
+343;143;4;Food waste reduction program;Program to reduce residential food waste.;2025/08/09
+344;144;5;Historic streetlight restoration;Restoring historic streetlights in heritage district.;2025/08/10
+345;145;6;Community health assessment;Comprehensive community health needs assessment.;2025/08/11
+346;146;7;Dog waste station installation;Installing pet waste disposal stations in parks.;2025/08/12
+347;147;8;Property maintenance standards;Enforcement of property maintenance bylaws.;2025/08/13
+348;148;9;Digital archive development;Developing digital archives of community documents.;2025/08/14
+349;149;10;Loud music rehearsal;Band practicing in garage creating neighborhood disturbance.;2025/08/15
+350;150;1;Emergency water supply;Emergency water supply during main repairs.;2025/08/16
+351;101;2;Accessible bus stops;Making bus stops wheelchair accessible.;2025/08/17
+352;102;3;Housing discrimination complaint;Complaint about discriminatory housing practices.;2025/08/18
+353;103;4;Zero waste initiative;Community zero waste education initiative.;2025/08/19
+354;104;5;Solar panel streetlight interference;Solar panels casting shadows on streetlights.;2025/08/20
+355;105;6;Mobile health clinic;Request for mobile health clinic visits.;2025/08/21
+356;106;7;Park security enhancement;Enhanced security measures for park safety.;2025/08/22
+357;107;8;Business license verification;Verifying business license compliance.;2025/08/23
+358;108;9;Community workshop space;Dedicated workshop space for community classes.;2025/08/24
+359;109;10;Loud construction machinery;Construction equipment exceeding noise limits.;2025/08/25
+360;110;1;Water conservation education;Educational program about water conservation.;2025/08/26
+361;111;2;Parking enforcement;Improved parking violation enforcement.;2025/08/27
+362;112;3;Housing code enforcement;Enforcement of housing quality standards.;2025/08/28
+363;113;4;Recycling contamination education;Education about proper recycling practices.;2025/08/29
+364;114;5;Motion sensor efficiency;Upgrading streetlights with motion sensor technology.;2025/08/30
+365;115;6;Chronic disease management;Programs for chronic disease self-management.;2025/08/31
+366;116;7;Community event coordination;Central coordination for park community events.;2025/09/01
+367;117;8;Noise complaint mediation;Mediation services for neighborhood noise disputes.;2025/09/02
+368;118;9;Adult education expansion;Expanding adult education and literacy programs.;2025/09/03
+369;119;10;Loud leaf removal;Commercial leaf removal service noise complaint.;2025/09/04
+370;120;1;Swimming pool safety;Enhanced safety measures for public swimming areas.;2025/09/05
+371;121;2;Traffic pattern analysis;Analysis of traffic flow patterns for improvements.;2025/09/06
+372;122;3;Housing affordability crisis;Addressing local housing affordability challenges.;2025/09/07
+373;123;4;Circular economy initiative;Promoting circular economy waste reduction practices.;2025/09/08
+374;124;5;Adaptive lighting controls;Installing adaptive controls for streetlight systems.;2025/09/09
+375;125;6;Preventive care program;Enhanced preventive healthcare program development.;2025/09/10
+376;126;7;Climate adaptation planning;Park infrastructure climate change adaptation.;2025/09/11
+377;127;8;Property tax assessment appeal;Appeal of property tax assessment valuation.;2025/09/12
+378;128;9;Cultural programming expansion;Expanding cultural programs and events at library.;2025/09/13
+379;129;10;Industrial noise complaint;Industrial facility creating excessive noise pollution.;2025/09/14
+380;130;1;Groundwater monitoring;Monitoring groundwater quality and levels.;2025/09/15
+381;131;2;Complete streets implementation;Implementing complete streets design principles.;2025/09/16
+382;132;3;Affordable housing development;New affordable housing development proposal.;2025/09/17
+383;133;4;Waste reduction incentives;Incentive programs for household waste reduction.;2025/09/18
+384;134;5;Smart city lighting integration;Integrating streetlights with smart city infrastructure.;2025/09/19
+385;135;6;Community paramedic program;Community paramedic program for seniors.;2025/09/20
+386;136;7;Green infrastructure development;Incorporating green infrastructure in park design.;2025/09/21
+387;137;8;Development impact assessment;Assessment of new development community impact.;2025/09/22
+388;138;9;Information literacy program;Digital and media literacy education programs.;2025/09/23
+389;139;10;Event noise management;Better management of event noise in residential areas.;2025/09/24
+390;140;1;Water infrastructure resilience;Building climate resilient water infrastructure.;2025/09/25
+391;141;2;Autonomous vehicle preparation;Preparing roads for autonomous vehicle integration.;2025/09/26
+392;142;3;Housing first program;Housing first approach to homelessness services.;2025/09/27
+393;143;4;Extended producer responsibility;Extended producer responsibility for packaging waste.;2025/09/28
+394;144;5;Lighting pollution reduction;Reducing light pollution while maintaining safety.;2025/09/29
+395;145;6;Population health strategy;Comprehensive population health improvement strategy.;2025/09/30
+396;146;7;Urban forest management;Comprehensive urban forest management plan.;2025/10/01
+397;147;8;Regulatory modernization;Updating bylaws for modern community needs.;2025/10/02
+398;148;9;Innovation hub development;Creating innovation and technology hub at library.;2025/10/03
+399;149;10;Community noise standards;Developing updated community noise standards.;2025/10/04
+400;150;1;Water system modernization;Comprehensive water system infrastructure upgrade.;2025/10/05
+401;101;1;Urgent water main break;Emergency water main break flooding intersection.;2025/10/06
+402;102;2;Dangerous intersection redesign;Complete redesign needed for accident-prone intersection.;2025/10/07
+403;103;3;Family eviction prevention;Emergency assistance to prevent family eviction.;2025/10/08
+404;104;4;Illegal toxic waste dumping;Toxic chemicals dumped illegally in residential area.;2025/10/09
+405;105;5;Multiple streetlight outages;Power surge knocked out entire street lighting.;2025/10/10
+406;106;6;Emergency medical access;Patient transport issues due to road conditions.;2025/10/11
+407;107;7;Playground equipment collapse;Playground structure partial collapse safety hazard.;2025/10/12
+408;108;8;Major bylaw enforcement;Large-scale violation requiring immediate enforcement.;2025/10/13
+409;109;9;Library flooding damage;Water damage threatening book collection.;2025/10/14
+410;110;10;Excessive noise emergency;Industrial accident creating dangerous noise levels.;2025/10/15
+411;111;1;Contaminated water supply;Chemical contamination detected in local water supply.;2025/10/16
+412;112;2;Bridge structural concern;Engineering inspection reveals potential bridge problems.;2025/10/17
+413;113;3;Mass displacement event;Multiple families need emergency housing assistance.;2025/10/18
+414;114;4;Hazardous spill cleanup;Industrial spill requiring specialized cleanup.;2025/10/19
+415;115;5;Infrastructure power failure;Major power failure affecting critical infrastructure.;2025/10/20
+416;116;6;Public health emergency;Disease outbreak requiring immediate response.;2025/10/21
+417;117;7;Park environmental hazard;Environmental contamination discovered in park.;2025/10/22
+418;118;8;Zoning violation cluster;Multiple serious zoning violations in single area.;2025/10/23
+419;119;9;Library security incident;Security breach compromising patron safety.;2025/10/24
+420;120;10;Community noise crisis;Multiple noise sources creating community crisis.;2025/10/25
+421;121;1;Water treatment malfunction;Water treatment facility equipment failure.;2025/10/26
+422;122;2;Traffic safety emergency;Multiple accidents at single location requiring action.;2025/10/27
+423;123;3;Housing crisis response;Rapid response needed for housing crisis.;2025/10/28
+424;124;4;Environmental emergency cleanup;Large-scale environmental contamination cleanup.;2025/10/29
+425;125;5;Critical infrastructure lighting;Emergency lighting needed for critical infrastructure.;2025/10/30
+426;126;6;Mass casualty medical response;Community disaster requiring medical response.;2025/10/31
+427;127;7;Park disaster recovery;Natural disaster damage to park infrastructure.;2025/11/01
+428;128;8;Emergency bylaw enforcement;Emergency situation requiring immediate bylaw action.;2025/11/02
+429;129;9;Library crisis management;Crisis situation affecting library operations.;2025/11/03
+430;130;10;Community emergency noise;Emergency situation creating excessive community noise.;2025/11/04
+431;131;1;System-wide water failure;Complete water system failure affecting entire area.;2025/11/05
+432;132;2;Transportation network failure;Major failure in transportation infrastructure.;2025/11/06
+433;133;3;Housing emergency coordination;Coordinating response to housing emergency.;2025/11/07
+434;134;4;Waste system collapse;Municipal waste system experiencing major failure.;2025/11/08
+435;135;5;Lighting system overhaul;Emergency overhaul of failing lighting infrastructure.;2025/11/09
+436;136;6;Healthcare system strain;Healthcare system overwhelmed requiring emergency response.;2025/11/10
+437;137;7;Parks infrastructure failure;Major parks infrastructure failure requiring attention.;2025/11/11
+438;138;8;Regulatory compliance crisis;Major regulatory compliance issues requiring resolution.;2025/11/12
+439;139;9;Information system emergency;Library information systems compromised.;2025/11/13
+440;140;10;Sound pollution emergency;Industrial accident creating dangerous sound levels.;2025/11/14
+441;141;1;Water infrastructure collapse;Critical water infrastructure structural failure.;2025/11/15
+442;142;2;Road network emergency;Road network failure requiring emergency response.;2025/11/16
+443;143;3;Homeless services crisis;Overwhelming demand for homeless services.;2025/11/17
+444;144;4;Waste contamination emergency;Contaminated waste requiring emergency management.;2025/11/18
+445;145;5;Power grid lighting failure;Power grid failure affecting all street lighting.;2025/11/19
+446;146;6;Public health infrastructure;Public health infrastructure requiring emergency repair.;2025/11/20
+447;147;7;Environmental park closure;Environmental hazard requiring park closure.;2025/11/21
+448;148;8;Mass bylaw violation;Large-scale bylaw violations requiring coordinated response.;2025/11/22
+449;149;9;Library system breakdown;Library computer and information systems failure.;2025/11/23
+450;150;10;Acoustic emergency;Dangerous acoustic levels from industrial incident.;2025/11/24
+451;101;1;Final water emergency;Last major water system emergency of dataset.;2025/11/25
+452;102;2;Ultimate road crisis;Final critical road infrastructure emergency.;2025/11/26
+453;103;3;Housing system breakdown;Complete breakdown of housing assistance system.;2025/11/27
+454;104;4;Terminal waste crisis;Final major waste management system failure.;2025/11/28
+455;105;5;Lighting grid collapse;Complete failure of municipal lighting grid.;2025/11/29
+456;106;6;Healthcare emergency finale;Final healthcare system emergency requiring response.;2025/11/30
+457;107;7;Parks closure emergency;Emergency closure of all parks due to safety.;2025/12/01
+458;108;8;Bylaw enforcement crisis;Crisis requiring emergency bylaw enforcement measures.;2025/12/02
+459;109;9;Library emergency shutdown;Emergency shutdown of library services.;2025/12/03
+460;110;10;Final noise emergency;Ultimate noise pollution emergency requiring action.;2025/12/04
+461;111;1;Post-emergency water restoration;Water service restoration after emergency.;2025/12/05
+462;112;2;Road reopening coordination;Coordinating road reopening after emergency repairs.;2025/12/06
+463;113;3;Housing service resumption;Resuming housing services after crisis resolution.;2025/12/07
+464;114;4;Waste service normalization;Returning waste services to normal operations.;2025/12/08
+465;115;5;Lighting restoration project;Restoring street lighting after system failure.;2025/12/09
+466;116;6;Healthcare service recovery;Healthcare services returning to normal capacity.;2025/12/10
+467;117;7;Park reopening preparation;Preparing parks for reopening after safety issues.;2025/12/11
+468;118;8;Bylaw enforcement normalization;Returning to normal bylaw enforcement operations.;2025/12/12
+469;119;9;Library service restoration;Restoring full library services after emergency.;2025/12/13
+470;120;10;Noise monitoring resumption;Resuming normal noise monitoring and enforcement.;2025/12/14
+471;121;1;Water quality assurance;Final water quality testing after emergency repairs.;2025/12/15
+472;122;2;Traffic pattern restoration;Restoring normal traffic patterns after road work.;2025/12/16
+473;123;3;Housing waitlist update;Updating housing waitlists after crisis resolution.;2025/12/17
+474;124;4;Waste route optimization;Optimizing waste collection routes after system repair.;2025/12/18
+475;125;5;Lighting efficiency review;Reviewing lighting system efficiency after restoration.;2025/12/19
+476;126;6;Community health follow-up;Follow-up health services after emergency response.;2025/12/20
+477;127;7;Park maintenance scheduling;Scheduling regular maintenance after park reopening.;2025/12/21
+478;128;8;Regulatory review process;Reviewing regulations after emergency enforcement.;2025/12/22
+479;129;9;Library program resumption;Resuming regular library programs and services.;2025/12/23
+480;130;10;Community noise baseline;Establishing baseline noise levels after emergency.;2025/12/24
+481;131;1;Year-end water assessment;Final water system assessment for the year.;2025/12/25
+482;132;2;Annual road condition review;Comprehensive review of road conditions.;2025/12/26
+483;133;3;Housing program evaluation;Annual evaluation of housing assistance programs.;2025/12/27
+484;134;4;Waste management analysis;Analysis of waste management system performance.;2025/12/28
+485;135;5;Lighting system upgrade planning;Planning next year's lighting system upgrades.;2025/12/29
+486;136;6;Health services planning;Planning health services for upcoming year.;2025/12/30
+487;137;7;Parks development strategy;Strategic planning for parks development.;2025/12/31
+488;138;8;Bylaw modernization review;Review of bylaws needing modernization.;2026/01/01
+489;139;9;Library strategic planning;Strategic planning for library services expansion.;2026/01/02
+490;140;10;Noise ordinance review;Comprehensive review of noise ordinance effectiveness.;2026/01/03
+491;141;1;New year water initiatives;New water conservation initiatives for new year.;2026/01/04
+492;142;2;Transportation planning;Annual transportation infrastructure planning.;2026/01/05
+493;143;3;Affordable housing strategy;Developing comprehensive affordable housing strategy.;2026/01/06
+494;144;4;Sustainability waste programs;Implementing sustainable waste management programs.;2026/01/07
+495;145;5;Smart lighting implementation;Implementing smart lighting technology citywide.;2026/01/08
+496;146;6;Community wellness programs;Expanding community wellness and health programs.;2026/01/09
+497;147;7;Green space expansion;Strategic expansion of green spaces and parks.;2026/01/10
+498;148;8;Digital governance initiative;Digital transformation of municipal services.;2026/01/11
+499;149;9;Knowledge hub development;Transforming library into comprehensive knowledge hub.;2026/01/12
+500;150;10;Quality of life enhancement;Comprehensive quality of life enhancement programs.;2026/01/13
