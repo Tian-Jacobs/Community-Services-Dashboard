@@ -20,8 +20,6 @@ JOIN service_categories sc ON c.category_id = sc.category_id
 GROUP BY sc.category_name
 ORDER BY total_complaints DESC;
 
--- Add more variance to the total complaints per category
-
 -- Query 3 | Average turnaround time in days from submission to resolution
 SELECT 
     c.complaint_id, 
@@ -33,8 +31,6 @@ FROM status_logs sl
 JOIN complaints c ON sl.complaint_id = c.complaint_id
 GROUP BY c.complaint_id
 HAVING MAX(CASE WHEN sl.status = 'Resolved' THEN sl.status_date END) IS NOT NULL;
-
--- Add more variance to the turnaround days
 
 -- Query 4 | Average turnaround time by category
 WITH complaint_turnaround AS (
@@ -56,8 +52,6 @@ JOIN service_categories sc ON ct.category_id = sc.category_id
 GROUP BY sc.category_name
 ORDER BY avg_turnaround_days;
 
--- Add more variance to the avg turnaround days
-
 -- Query 5 | Top 5 residents with the most complaints
 SELECT r.first_name || ' ' || r.last_name AS resident_name,
        COUNT(c.complaint_id) AS total_complaints
@@ -69,7 +63,7 @@ LIMIT 5;
 
 -- Add more variance to the total complaints of residents 
 
--- Query 6️ | Complaints still in progress || not displaying any data
+-- Query 6️ | Complaints still in progresss
 SELECT 
     c.complaint_id, 
     c.title, 
@@ -97,16 +91,12 @@ SELECT CASE
 FROM complaints c
 GROUP BY status;
 
--- Add more variance to the resolved and unresolved cases
-
 -- Query 8 | Monthly complaint trend
 SELECT TO_CHAR(c.submission_date, 'YYYY-MM') AS month,
        COUNT(c.complaint_id) AS total_complaints
 FROM complaints c
 GROUP BY month
 ORDER BY month;
-
--- Add more variance to the monthly complaint trend
 
 -- Query 9️ | Average number of days each status lasts
 SELECT status, 
